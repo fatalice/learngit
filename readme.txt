@@ -5,5 +5,5 @@ test
 now i m practiceing branch
 this is a new branch
 
+now fix a bug
 
-master
